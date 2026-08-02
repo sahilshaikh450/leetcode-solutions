@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0093-restore-ip-addresses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0468-validate-ip-address](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
