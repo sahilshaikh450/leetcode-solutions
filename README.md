@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
