@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
