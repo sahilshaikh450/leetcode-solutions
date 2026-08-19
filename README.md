@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
