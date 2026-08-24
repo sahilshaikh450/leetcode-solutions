@@ -3,7 +3,7 @@ class Solution {
   int n= nums.length;
     int x=0;
 
-    for(int i=0;i<=n;i++){
+    for(int i=1;i<=n;i++){
         x ^=i;
 
     }   
