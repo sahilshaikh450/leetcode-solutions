@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0468-validate-ip-address](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [0692-top-k-frequent-words](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
