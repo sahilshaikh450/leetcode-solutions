@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
