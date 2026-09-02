@@ -4,19 +4,12 @@ class Solution {
         while(i>=0 && j>=0){
             if(A[i]>=B[j]){
                 A[idx--]=A[i--];
-                
-
-
             }else{
                 A[idx--]=B[j--];
             }
-
         }
-
-
-
         while(j>=0){
-              A[idx--]=B[j--];
+              A[idx--] = B[j--];
 
         }
     }
