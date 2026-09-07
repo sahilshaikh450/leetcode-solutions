@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
 ## Backtracking
@@ -327,4 +329,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0148-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
