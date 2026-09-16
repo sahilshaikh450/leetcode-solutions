@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
