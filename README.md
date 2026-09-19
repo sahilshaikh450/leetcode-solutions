@@ -383,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
