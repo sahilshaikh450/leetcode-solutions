@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [0692-top-k-frequent-words](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
