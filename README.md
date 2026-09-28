@@ -278,12 +278,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
