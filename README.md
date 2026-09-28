@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [0692-top-k-frequent-words](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
