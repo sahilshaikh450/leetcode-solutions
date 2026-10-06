@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0055-jump-game) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0093-restore-ip-addresses) |
 ## Tree
 |  |
