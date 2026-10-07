@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1267-count-servers-that-communicate](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Heap (Priority Queue)
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
