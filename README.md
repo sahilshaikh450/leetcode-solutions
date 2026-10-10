@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
