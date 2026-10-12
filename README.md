@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1544-make-the-string-great](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
