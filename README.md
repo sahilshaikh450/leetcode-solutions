@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -482,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
