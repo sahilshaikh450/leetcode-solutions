@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
