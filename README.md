@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sahilshaikh450/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
